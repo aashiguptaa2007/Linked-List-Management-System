@@ -1,0 +1,30 @@
+LINKED LIST MANAGEMENT SYSTEM
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 1
+
+--- Singly Linked List ---
+Enter choice: 2
+Value: 40
+Operation completed.
+Enter choice: 2
+Value: 10
+Operation completed.
+Enter choice: 2
+Value: 30
+Operation completed.
+Enter choice: 12
+40 -> 10 -> 30 -> NULL
+Enter choice: 18
+Operation completed.
+Enter choice: 12
+10 -> 30 -> 40 -> NULL
+Enter choice: 20
+
+--- Singly Linked List ---
+Enter choice: 20
+Thank you for using the system.
+
+Note: This is an illustrative sample of the interaction and output format.
